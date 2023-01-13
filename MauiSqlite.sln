@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31611.283
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiSqlite", "MauiSqlite.csproj", "{49A4E9DA-07EF-4785-B5D6-A33186D7C152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiSqliteClassLibrary", "..\MauiSqliteClassLibrary\MauiSqliteClassLibrary.csproj", "{D266369B-0527-4035-BE67-76F4D5F0BB1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A4E9DA-07EF-4785-B5D6-A33186D7C152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A4E9DA-07EF-4785-B5D6-A33186D7C152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A4E9DA-07EF-4785-B5D6-A33186D7C152}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{49A4E9DA-07EF-4785-B5D6-A33186D7C152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A4E9DA-07EF-4785-B5D6-A33186D7C152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49A4E9DA-07EF-4785-B5D6-A33186D7C152}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D266369B-0527-4035-BE67-76F4D5F0BB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D266369B-0527-4035-BE67-76F4D5F0BB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D266369B-0527-4035-BE67-76F4D5F0BB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D266369B-0527-4035-BE67-76F4D5F0BB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F7FB11-1E47-470C-91E2-47F8143E1572}
+	EndGlobalSection
+EndGlobal
