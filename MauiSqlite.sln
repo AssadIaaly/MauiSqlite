@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiSqlite", "MauiSqlite.csproj", "{49A4E9DA-07EF-4785-B5D6-A33186D7C152}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiSqliteClassLibrary", "..\MauiSqliteClassLibrary\MauiSqliteClassLibrary.csproj", "{D266369B-0527-4035-BE67-76F4D5F0BB1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiSqliteClassLibrary", "MauiSqliteClassLibrary\MauiSqliteClassLibrary.csproj", "{91521952-0276-46D5-9F8C-C2D96CA4C22B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,10 @@ Global
 		{49A4E9DA-07EF-4785-B5D6-A33186D7C152}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49A4E9DA-07EF-4785-B5D6-A33186D7C152}.Release|Any CPU.Build.0 = Release|Any CPU
 		{49A4E9DA-07EF-4785-B5D6-A33186D7C152}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{D266369B-0527-4035-BE67-76F4D5F0BB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D266369B-0527-4035-BE67-76F4D5F0BB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D266369B-0527-4035-BE67-76F4D5F0BB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D266369B-0527-4035-BE67-76F4D5F0BB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91521952-0276-46D5-9F8C-C2D96CA4C22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91521952-0276-46D5-9F8C-C2D96CA4C22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91521952-0276-46D5-9F8C-C2D96CA4C22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91521952-0276-46D5-9F8C-C2D96CA4C22B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
